@@ -4,17 +4,20 @@ disusun oleh : sanny revalina abigail
 
 NIM :2209116064
 
-![image](https://github.com/revalina33/-pbo-posttest-2/assets/126893682/c48ec7b1-7913-4c3d-ada4-1ed074735912)
+
+![image](https://github.com/revalina33/-pbo-posttest-2/assets/126893682/f8b01457-b99c-4009-9c1f-f5633519921e)
+
 
 
 pada kodingan ini terdapat 2 package, di package utama terdapat class TokoBuku yang berfungsi menjadi halaman utama, selanjutnya pada package kedua terdapat 3 class,, yaitu Staff,Pelanggan, dan Buku.
 
 
 
-*output pada menu utama*
+**output pada menu utama**
 
 
-![image](https://github.com/revalina33/-pbo-posttest-2/assets/126893682/d268cfba-bb26-48ba-a1c4-6da9deb7d12f)
+![image](https://github.com/revalina33/-pbo-posttest-2/assets/126893682/c9be0aac-c797-4129-8c7d-1d4c49edc352)
+
 
 
 
@@ -23,11 +26,12 @@ pada menu ini terdapat 3 pilihan yaitu,login sebagai staff, login sebagai pelang
 
 
 
- *tampilan menu pada login staff*
+ **tampilan menu pada login staff**
 
 
  
-![image](https://github.com/revalina33/-pbo-posttest-2/assets/126893682/032c7af6-2caa-4424-92d3-47cf5b351c42)
+![image](https://github.com/revalina33/-pbo-posttest-2/assets/126893682/4774c55d-1533-4568-bba0-98106522cc7a)
+
 
 
 
@@ -39,7 +43,8 @@ a.) menampilkan buku
 
 
 
-![image](https://github.com/revalina33/-pbo-posttest-2/assets/126893682/7ac49530-577f-468f-8211-d9e593e79ea0)
+![image](https://github.com/revalina33/-pbo-posttest-2/assets/126893682/a4703259-a571-41b0-bbf8-0539e2436c4b)
+
 
 
 pada menu tampilkan buku hanya bisa menampilkan buku apabila buku sudah di input oleh staff
@@ -50,7 +55,8 @@ b.) menambah buku
 
 
 
-![image](https://github.com/revalina33/-pbo-posttest-2/assets/126893682/d0c66143-3778-40b6-9785-f17facd53c21)
+![image](https://github.com/revalina33/-pbo-posttest-2/assets/126893682/67bd0333-e297-47b0-bd3f-af5951b410eb)
+
 
 
 pada menu ini staf diminta untuk menginput judul buku,penggarang,tebal buku, dan harga.
@@ -61,7 +67,9 @@ c.) menghapus buku
 
 
 
-![image](https://github.com/revalina33/-pbo-posttest-2/assets/126893682/5e134b1e-2fb1-4ca1-a68c-ede99817dd75)
+![image](https://github.com/revalina33/-pbo-posttest-2/assets/126893682/e2762ebe-5fdb-4059-b648-91a3b67779d0)
+
+
 
 
 pada menu ini staff akan diminta untuk memasukkan judul dari buku yang ingin dihapus
@@ -71,7 +79,7 @@ pada menu ini staff akan diminta untuk memasukkan judul dari buku yang ingin dih
 
 
 
- *tampilan menu pada login pelanggan*
+ **tampilan menu pada login pelanggan**
 
 
 
@@ -80,8 +88,10 @@ pada menu ini staff akan diminta untuk memasukkan judul dari buku yang ingin dih
  
  a.) menampilkan buku
 
+
  
-![image](https://github.com/revalina33/-pbo-posttest-2/assets/126893682/80b07e71-6029-4bda-865f-721f8c7b8981)
+![image](https://github.com/revalina33/-pbo-posttest-2/assets/126893682/e566e97a-b382-4ca1-ad24-144890391761)
+
 
 
  pada menu pelanggan terdapat menu menampilkan buku. data buku dari menu ini hanya dapat tampil apabila staff sudah memasukkan data buku.
@@ -92,6 +102,8 @@ pada menu ini staff akan diminta untuk memasukkan judul dari buku yang ingin dih
 
 
  
- ![image](https://github.com/revalina33/-pbo-posttest-2/assets/126893682/39f934c0-f13a-4044-82b7-efc336f057ca)
+![image](https://github.com/revalina33/-pbo-posttest-2/assets/126893682/c6a502b5-2b9c-4cee-b684-3ab40c94b5a2)
+
+
 
  pada menu ini pelanggan akan diminta untuk menginput judul dari buku yang ingin dibeli dan jumlah yang ingin dibeli.
